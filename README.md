@@ -1,6 +1,6 @@
 # The Generalized Mutually Best Pairs condition
 
- This repository provides Matlab code to verify the Generalized Mutually Best Pairs (GMBP) condition. The GMBP condition is useful identify in the classical school choice problem whether the student-proposing deferred acceptance algorithm (DA) is efficient and there is a unique allocation that respects priorities. More information about the condition can be found in \[[Cantillon, Chen, Pereyra, 2022](https://arxiv.org/abs/2212.02881)\]. The code was tested on Matlab R2021b, and should be compatible with older versions.
+ This repository provides Matlab code to verify the Generalized Mutually Best Pairs (GMBP) condition. The GMBP condition is useful to identify in the classical school choice problem whether the student-proposing deferred acceptance algorithm (DA) is efficient and whether there is a unique allocation that respects priorities. More information about the condition can be found in \[[Cantillon, Chen, Pereyra, 2022](https://arxiv.org/abs/2212.02881)\]. The code was tested on Matlab R2021b and should be compatible with older versions.
 
  ## File structure
  * UtilitiesPriorities.m
