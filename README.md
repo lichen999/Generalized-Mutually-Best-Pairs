@@ -5,9 +5,9 @@
  ## File structure
  * UtilitiesPriorities.m
     + generate student preferences and school priorities with chosen parameters for the simulations
-    + verify for the given market of student preferences and school priorities, whether the market satisfies GMBP, the sequential Mutually Best Pairs \[[Salonen and Salonen, 2018](https://www.sciencedirect.com/science/article/pii/S016548961730001X)\]
+    + verify for the given market of student preferences and school priorities, whether the market satisfies GMBP (gmbp.m), the sequential Mutually Best Pairs \[[Salonen and Salonen, 2018](https://www.sciencedirect.com/science/article/pii/S016548961730001X)\] (mbp.m), whether student-proposing DA = TTC (dastudent.m, TTC.m), and whether the outcome produced by student-proposing DA is efficient (pareto.m)
     + produce graphs visualizing the simulated results
-* Algorithm
+* Algorithms
   + gmbp.m \[Code to verify GMBP\]
   + mbp.m  \[Code to verify MBP\]
   + dastudent.m  \[Code to generate matching produced by the student-proposing DA algorithm\]
